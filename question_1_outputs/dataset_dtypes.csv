@@ -1,0 +1,80 @@
+Feature,Dtype
+Destination Port,int32
+Flow Duration,int32
+Total Fwd Packets,int32
+Total Backward Packets,int32
+Total Length of Fwd Packets,int32
+Total Length of Bwd Packets,int32
+Fwd Packet Length Max,int32
+Fwd Packet Length Min,int32
+Fwd Packet Length Mean,float32
+Fwd Packet Length Std,float32
+Bwd Packet Length Max,int32
+Bwd Packet Length Min,int32
+Bwd Packet Length Mean,float32
+Bwd Packet Length Std,float32
+Flow Bytes/s,float32
+Flow Packets/s,float32
+Flow IAT Mean,float32
+Flow IAT Std,float32
+Flow IAT Max,int32
+Flow IAT Min,int32
+Fwd IAT Total,int32
+Fwd IAT Mean,float32
+Fwd IAT Std,float32
+Fwd IAT Max,int32
+Fwd IAT Min,int32
+Bwd IAT Total,int32
+Bwd IAT Mean,float32
+Bwd IAT Std,float32
+Bwd IAT Max,int32
+Bwd IAT Min,int32
+Fwd PSH Flags,int32
+Bwd PSH Flags,int32
+Fwd URG Flags,int32
+Bwd URG Flags,int32
+Fwd Header Length,int32
+Bwd Header Length,int32
+Fwd Packets/s,float32
+Bwd Packets/s,float32
+Min Packet Length,int32
+Max Packet Length,int32
+Packet Length Mean,float32
+Packet Length Std,float32
+Packet Length Variance,float32
+FIN Flag Count,int32
+SYN Flag Count,int32
+RST Flag Count,int32
+PSH Flag Count,int32
+ACK Flag Count,int32
+URG Flag Count,int32
+CWE Flag Count,int32
+ECE Flag Count,int32
+Down/Up Ratio,int32
+Average Packet Size,float32
+Avg Fwd Segment Size,float32
+Avg Bwd Segment Size,float32
+Fwd Header Length.1,int32
+Fwd Avg Bytes/Bulk,int32
+Fwd Avg Packets/Bulk,int32
+Fwd Avg Bulk Rate,int32
+Bwd Avg Bytes/Bulk,int32
+Bwd Avg Packets/Bulk,int32
+Bwd Avg Bulk Rate,int32
+Subflow Fwd Packets,int32
+Subflow Fwd Bytes,int32
+Subflow Bwd Packets,int32
+Subflow Bwd Bytes,int32
+Init_Win_bytes_forward,int32
+Init_Win_bytes_backward,int32
+act_data_pkt_fwd,int32
+min_seg_size_forward,int32
+Active Mean,float32
+Active Std,float32
+Active Max,int32
+Active Min,int32
+Idle Mean,float32
+Idle Std,float32
+Idle Max,int32
+Idle Min,int32
+Label,str

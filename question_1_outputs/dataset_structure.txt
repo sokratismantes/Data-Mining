@@ -1,0 +1,18 @@
+ΔΟΜΗ DATASET
+============================
+Αριθμός γραμμών: 2498185
+Αριθμός στηλών: 79
+
+Τύποι δεδομένων ανά στήλη:
+Destination Port                 int32
+Flow Duration                    int32
+Total Fwd Packets                int32
+Total Backward Packets           int32
+Total Length of Fwd Packets      int32
+                                ...   
+Idle Mean                      float32
+Idle Std                       float32
+Idle Max                         int32
+Idle Min                         int32
+Label                              str
+Length: 79, dtype: object

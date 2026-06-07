@@ -1,0 +1,23 @@
+ΣΥΜΠΕΡΑΣΜΑ CLUSTERING
+============================
+Καλύτερη μέθοδος ως προς Silhouette:
+- Algorithm: Hierarchical
+- Parameters: linkage=complete, k=3
+- Silhouette: 0.8322
+- Davies-Bouldin: 0.3493
+- Clusters: 3
+- Noise ratio: 0.00%
+
+Καλύτερη μέθοδος ως προς Davies-Bouldin:
+- Algorithm: Hierarchical
+- Parameters: linkage=average, k=5
+- Silhouette: 0.7460
+- Davies-Bouldin: 0.2859
+- Clusters: 5
+- Noise ratio: 0.00%
+
+Σχόλιο για τη σύγκριση με Label:
+Για κάθε εκτέλεση έχει αποθηκευτεί αρχείο cluster_vs_label_*.csv. Αυτοί οι πίνακες δείχνουν πώς κατανέμονται οι πραγματικές κλάσεις Label μέσα στα clusters. Επειδή το clustering είναι μη επιβλεπόμενη μέθοδος, το Label δεν χρησιμοποιείται στην εκπαίδευση, αλλά μόνο εκ των υστέρων για ερμηνεία.
+
+Σχόλιο για περιορισμούς υπολογιστή:
+Χρησιμοποιήθηκε κύριο δείγμα 30000 γραμμών και μικρότερο δείγμα 5000 γραμμών για Hierarchical Clustering, επειδή ο συγκεκριμένος αλγόριθμος είναι υπολογιστικά βαρύς σε μεγάλο αριθμό παρατηρήσεων.

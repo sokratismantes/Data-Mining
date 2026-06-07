@@ -1,0 +1,4 @@
+Algorithm,Parameters,Silhouette,Davies_Bouldin,Number_of_Clusters,Noise_Points,Noise_Ratio_Percentage,Valid
+Hierarchical,"linkage=complete, k=3",0.8321947455406189,0.34925720079149025,3,0,0.0,True
+K-Means,k=2,0.5164475440979004,1.6543822923839817,2,0,0.0,True
+DBSCAN,"eps=3.0, min_samples=20",0.27526000142097473,1.6850484799906083,15,1190,3.966666666666667,True

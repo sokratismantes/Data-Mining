@@ -1,0 +1,14 @@
+True Label,0,1,2,3,4
+BENIGN,4100,3,0,4,30
+Bot,5,0,0,0,0
+DDoS,249,0,0,0,0
+DoS GoldenEye,20,0,2,0,4
+DoS Hulk,343,0,0,0,0
+DoS Slowhttptest,11,0,0,0,0
+DoS slowloris,11,0,0,0,4
+FTP-Patator,10,0,0,0,0
+PortScan,196,0,0,0,0
+SSH-Patator,4,0,0,0,0
+Web Attack � Brute Force,2,0,0,0,0
+Web Attack � Sql Injection,1,0,0,0,0
+Web Attack � XSS,1,0,0,0,0
