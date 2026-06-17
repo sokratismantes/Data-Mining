@@ -1,15 +1,15 @@
-True Label,0,1,2,3,4
-BENIGN,6374,17601,588,31,328
-Bot,17,14,0,0,0
-DDoS,303,567,0,636,0
-DoS GoldenEye,62,19,0,12,24
-DoS Hulk,150,177,554,1176,2
-DoS Slowhttptest,31,14,15,0,0
-DoS slowloris,24,5,30,0,17
-FTP-Patator,40,23,0,0,0
-Infiltration,0,1,0,0,0
-PortScan,571,538,0,0,2
-SSH-Patator,32,2,0,0,0
-Web Attack � Brute Force,13,0,0,0,0
-Web Attack � Sql Injection,0,1,0,0,0
-Web Attack � XSS,6,0,0,0,0
+True Label,0,1,2,3,4,Total_True_Labels
+BENIGN,6374,17601,588,31,328,24922
+Bot,17,14,0,0,0,31
+DDoS,303,567,0,636,0,1506
+DoS GoldenEye,62,19,0,12,24,117
+DoS Hulk,150,177,554,1176,2,2059
+DoS Slowhttptest,31,14,15,0,0,60
+DoS slowloris,24,5,30,0,17,76
+FTP-Patator,40,23,0,0,0,63
+Infiltration,0,1,0,0,0,1
+PortScan,571,538,0,0,2,1111
+SSH-Patator,32,2,0,0,0,34
+Web Attack � Brute Force,13,0,0,0,0,13
+Web Attack � Sql Injection,0,1,0,0,0,1
+Web Attack � XSS,6,0,0,0,0,6
