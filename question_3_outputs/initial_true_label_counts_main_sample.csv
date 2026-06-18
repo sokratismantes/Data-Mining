@@ -1,0 +1,15 @@
+Label,Initial_True_Label_Count
+BENIGN,24922
+DoS Hulk,2059
+DDoS,1506
+PortScan,1111
+DoS GoldenEye,117
+DoS slowloris,76
+FTP-Patator,63
+DoS Slowhttptest,60
+SSH-Patator,34
+Bot,31
+Web Attack � Brute Force,13
+Web Attack � XSS,6
+Infiltration,1
+Web Attack � Sql Injection,1
